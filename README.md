@@ -1,7 +1,7 @@
 ![Tile Editor Banner](https://github.com/tobloef/tile-editor/assets/12204005/8598e834-4994-45fc-807d-877b19eff9b5)
 
 
-### Web app for creating tile-based sprites ✏️
+### Web app for creating tile-based sprites 🖊️
 
 ## Goals
 
